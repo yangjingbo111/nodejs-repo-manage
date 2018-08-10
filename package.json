@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-repo-manage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangjingbo111/nodejs-repo-manage.git"
+  },
+  "author": "yangjb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangjingbo111/nodejs-repo-manage/issues"
+  },
+  "homepage": "https://github.com/yangjingbo111/nodejs-repo-manage#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
